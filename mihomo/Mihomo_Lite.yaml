@@ -152,25 +152,25 @@ rules:
 
 # 规则集提供者
 rule-providers:
-  Private:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Private.mrs }
-  Apple:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Apple.mrs }
-  Telegram:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Telegram.mrs }
-  TM:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/TM.mrs }
-  SocialMedia:  { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/SocialMedia.mrs }
-  AI:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/AI.mrs }
-  Dev:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Dev.mrs }
-  YouTube:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/YouTube.mrs }
-  Netflix:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Netflix.mrs }
-  Spotify:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Spotify.mrs }
-  Disney:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Disney.mrs }
-  Streaming:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Streaming.mrs }
-  Proxy:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Proxy.mrs }
-  China:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/China.mrs }
-  PrivateIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Private.mrs }
-  TelegramIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Telegram.mrs }
-  SocialMediaIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/SocialMedia.mrs }
-  AIIP:      { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/AI.mrs }
-  NetflixIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Netflix.mrs }
-  StreamingIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Streaming.mrs }
-  ProxyIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Proxy.mrs }
-  ChinaIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/China.mrs }
+  Private:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Private.mrs }
+  Apple:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Apple.mrs }
+  Telegram:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Telegram.mrs }
+  TM:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/TM.mrs }
+  SocialMedia:  { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/SocialMedia.mrs }
+  AI:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/AI.mrs }
+  Dev:        { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Dev.mrs }
+  YouTube:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/YouTube.mrs }
+  Netflix:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Netflix.mrs }
+  Spotify:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Spotify.mrs }
+  Disney:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Disney.mrs }
+  Streaming:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Streaming.mrs }
+  Proxy:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Proxy.mrs }
+  China:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/China.mrs }
+  PrivateIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Private.mrs }
+  TelegramIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Telegram.mrs }
+  SocialMediaIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/SocialMedia.mrs }
+  AIIP:      { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/AI.mrs }
+  NetflixIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Netflix.mrs }
+  StreamingIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Streaming.mrs }
+  ProxyIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Proxy.mrs }
+  ChinaIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/China.mrs }
