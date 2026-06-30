@@ -97,9 +97,9 @@ rules:
 
 # 规则集提供者
 rule-providers:
-  Private:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Private.mrs }
-  Proxy:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/Proxy.mrs }
-  China:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/domain/China.mrs }
-  PrivateIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Private.mrs }
-  ProxyIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/Proxy.mrs }
-  ChinaIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/ip/China.mrs }
+  Private:    { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Private.mrs }
+  Proxy:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/Proxy.mrs }
+  China:      { <<: *rule-set-domain, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/domain/China.mrs }
+  PrivateIP:  { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Private.mrs }
+  ProxyIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/Proxy.mrs }
+  ChinaIP:    { <<: *rule-set-ipcidr, url: https://github.com/MomoFlora/Clash-Rules/raw/master/rules/ip/China.mrs }
