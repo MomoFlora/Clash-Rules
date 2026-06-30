@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:21
-# TOTAL: 826
+# UPDATED: 2026-06-30 03:32:00
+# TOTAL: 873
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,2ksports.com
 DOMAIN-SUFFIX,2kweb.online
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
+DOMAIN-SUFFIX,37.com
+DOMAIN-SUFFIX,37.com.cn
+DOMAIN-SUFFIX,37wan.net
+DOMAIN-SUFFIX,37wanimg.com
 DOMAIN-SUFFIX,3839.com
 DOMAIN-SUFFIX,3839apk.com
 DOMAIN-SUFFIX,3839app.com
@@ -44,6 +48,7 @@ DOMAIN-SUFFIX,4399youxi.com
 DOMAIN-SUFFIX,4399yyy.com
 DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,5wyxi.com
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
@@ -54,7 +59,7 @@ DOMAIN-SUFFIX,abdf002.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,activematter.game
-DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
@@ -125,8 +130,10 @@ DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,capturingreality.com
+DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,cdncl.net
 DOMAIN-SUFFIX,championshipseriesleague.com
+DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,chillingo.com
 DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,clash.com
@@ -144,10 +151,12 @@ DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crysis.jp
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,cubicodyssey.game
 DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,cygames.co.jp
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,daoc.net
@@ -172,6 +181,8 @@ DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,dota2.com
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
@@ -215,8 +226,6 @@ DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -230,6 +239,7 @@ DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,ffbuddy.com
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
@@ -261,6 +271,8 @@ DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
 DOMAIN-SUFFIX,garenanow.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
@@ -275,11 +287,14 @@ DOMAIN-SUFFIX,giratina.com
 DOMAIN-SUFFIX,gloryofheracles.com
 DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,gotolink.net
 DOMAIN-SUFFIX,gouhuo.qq.com
+DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,guoping123.com
@@ -316,19 +331,33 @@ DOMAIN-SUFFIX,ihykb.com
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,industrialtoys.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
+DOMAIN-SUFFIX,kiwi.jp
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kraftonde.com
-DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,laohu.com
 DOMAIN-SUFFIX,lcsmerch.com
 DOMAIN-SUFFIX,leaguehighschool.com
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
@@ -338,6 +367,7 @@ DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,lingxigames.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,lol-europe.com
@@ -443,10 +473,8 @@ DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,newsupermariobrosu.com
-DOMAIN-SUFFIX,nexon.co.jp
-DOMAIN-SUFFIX,nexon.com
-DOMAIN-SUFFIX,nexon.io
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nexus-cdn.com
@@ -492,6 +520,7 @@ DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,playcool.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
@@ -561,6 +590,8 @@ DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,rgpub.io
 DOMAIN-SUFFIX,riot-games.com
 DOMAIN-SUFFIX,riot.com
@@ -592,11 +623,16 @@ DOMAIN-SUFFIX,sccreators.cn
 DOMAIN-SUFFIX,scescdn.cn
 DOMAIN-SUFFIX,scid.cn
 DOMAIN-SUFFIX,scsentry.cn
+DOMAIN-SUFFIX,sdo.com
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,seaofsolitude.com
+DOMAIN-SUFFIX,seasungames.cn
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,shengqugames.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,sih-db.com
 DOMAIN-SUFFIX,sih.app
@@ -637,6 +673,7 @@ DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
@@ -652,7 +689,6 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,supercellcreators.com
@@ -668,6 +704,7 @@ DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpapermario.com
 DOMAIN-SUFFIX,supersmashbros.cn
 DOMAIN-SUFFIX,supersmashbros.com.cn
+DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,swjedifallenorder.com
@@ -682,6 +719,7 @@ DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,tencent-gcloud.com
 DOMAIN-SUFFIX,tencentstart.com
+DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
@@ -720,6 +758,7 @@ DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,vigorgame.com
@@ -758,6 +797,7 @@ DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,winegame.net
 DOMAIN-SUFFIX,wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,wmupd.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,worldflipper.jp
@@ -785,9 +825,12 @@ DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,xishanju.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,ylands.com
@@ -803,6 +846,7 @@ DOMAIN-SUFFIX,yostar.net
 DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,yxdmgame.com
 DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
@@ -814,12 +858,15 @@ DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
+DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,zyngapoker.com
 DOMAIN-KEYWORD,garena
 DOMAIN-KEYWORD,goto-game
+DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,leagueoflegends
+DOMAIN-KEYWORD,nexon
 DOMAIN-KEYWORD,nintendo
 DOMAIN-KEYWORD,nintendoswitch
 DOMAIN-KEYWORD,riotgames

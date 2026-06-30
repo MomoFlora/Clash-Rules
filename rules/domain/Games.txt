@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:21
-# TOTAL: 1016
+# UPDATED: 2026-06-30 03:32:00
+# TOTAL: 1071
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -12,6 +12,10 @@
 +.2kweb.online
 +.3304399.com
 +.3304399.net
++.37.com
++.37.com.cn
++.37wan.net
++.37wanimg.com
 +.3839.com
 +.3839apk.com
 +.3839app.com
@@ -44,6 +48,7 @@
 +.4399yyy.com
 +.5054399.com
 +.5054399.net
++.573.jp
 +.5wyxi.com
 +.71acg.com
 +.71acg.net
@@ -54,7 +59,7 @@
 +.ac-pocketcamp.com
 +.acesofthunder.net
 +.activematter.game
-+.aki-game.com
++.aligames.com
 +.amiibo.com
 +.anthemgame.com
 +.anthemthegame.com
@@ -125,8 +130,10 @@
 +.camelotherald.net
 +.capitalgames.com
 +.capturingreality.com
++.cbjq.com
 +.cdncl.net
 +.championshipseriesleague.com
++.changyou.com
 +.chillingo.com
 +.chunkbase.com
 +.clash.com
@@ -144,10 +151,12 @@
 +.crossout.net
 +.crsed.net
 +.crysis.jp
++.csgo.com.cn
 +.csgo.wmsj.cn
 +.cubicmotion.com
 +.cubicodyssey.game
 +.curseforge.com
++.cy.com
 +.cygames.co.jp
 +.cygames.jp
 +.daoc.net
@@ -172,6 +181,8 @@
 +.dodi-repacks.site
 +.donkeykongcountryreturns.com
 +.doom.com
++.dota2.com
++.dota2.com.cn
 +.dota2.wmsj.cn
 +.dragonage.com
 +.dragonagekeep.com
@@ -215,8 +226,6 @@
 +.electronicarts.fr
 +.embark-studios.com
 +.embark.games
-+.eneba.com
-+.eneba.games
 +.enlisted.net
 +.epicgames.com
 +.epicgames.dev
@@ -230,6 +239,7 @@
 +.fanatical.com
 +.feihuo.com
 +.ffbuddy.com
++.ficgs.com
 +.fifastreet.com
 +.fifastreet3.com
 +.fire-emblem-heroes.com
@@ -261,6 +271,8 @@
 +.gamemei.com
 +.gamepass.com
 +.gamesfirsthelsinki.com
++.gamesplanet.com
++.gametap.com
 +.garena.co.id
 +.garena.co.th
 +.garena.com
@@ -285,8 +297,10 @@
 +.gloryofheracles.com
 +.goblocks.com
 +.goblox.com
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gooblox.com
 +.goto-game.com
 +.goto-game.mobi
@@ -294,6 +308,7 @@
 +.goto-game.org
 +.gotolink.net
 +.gouhuo.qq.com
++.gpstatic.com
 +.gstore.val.manlaxy.com
 +.gtgres.com
 +.guoping123.com
@@ -330,19 +345,38 @@
 +.img4399.com
 +.in.th
 +.industrialtoys.com
++.insights-collector.gog.com
 +.instituteofwar.org
 +.itch.io
 +.itch.zone
++.jiaoyimao.cn
++.jiaoyimao.com
 +.joinsquad.com
 +.joyjoy.net
 +.juequling.com
++.kgisystems.com
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
++.kiwi.jp
++.konami
++.konami-igaming.online
++.konami.co.jp
++.konami.com
++.konami.net
++.konami.org
++.konamicrossmedia.com
++.konamigaming.com
++.konamigaming.net
++.konamigaming.online
++.konamionline.com
++.konamiopen.jp
++.konamisportsclub.jp
++.konamistyle.jp
 +.kraftonde.com
-+.kurogames.com
 +.kyurem.com
 +.labycore.cn
 +.langrenclub.com
++.laohu.com
 +.lcsmerch.com
 +.leaguehighschool.com
 +.leagueoflegends.ca
@@ -360,6 +394,7 @@
 +.ledu.com
 +.legendofzelda.cn
 +.legendofzelda.com.cn
++.lingxigames.com
 +.log-upload-os.hoyoverse.com
 +.log-upload.mihoyo.com
 +.lol-europe.com
@@ -468,7 +503,9 @@
 +.nexon.co.jp
 +.nexon.com
 +.nexon.io
++.nexon.net
 +.nexoncdn.co.kr
++.nexongames.co.kr
 +.nextstudios.com
 +.nextworkshop.net
 +.nexus-cdn.com
@@ -542,6 +579,7 @@
 +.playapex.com
 +.playartifact.com
 +.playbattlegrounds.com
++.playcool.com
 +.playhearthstone.com
 +.playnintendo.com
 +.playoverwatch.com
@@ -611,6 +649,8 @@
 +.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
++.resella.jp
++.resellablue.com
 +.rgpub.io
 +.riot-games.com
 +.riot.com
@@ -674,11 +714,16 @@
 +.scescdn.cn
 +.scid.cn
 +.scsentry.cn
++.sdo.com
 +.seagroup.com
 +.seaofsolitude.com
++.seasungames.cn
++.seasungames.com
++.seasunwbl.com
 +.seeurlpcl.com
 +.sekai.colorfulpalette.org
 +.shadowcomplex.com
++.shengqugames.com
 +.shyxhy.com
 +.sih-db.com
 +.sih.app
@@ -728,6 +773,7 @@
 +.steam.tv
 +.steamchina.com
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -743,7 +789,6 @@
 +.stellasora.global
 +.stellasora.jp
 +.supercell.com
-+.supercell.helpshift.com
 +.supercell.net
 +.supercellcommunity.cn
 +.supercellcreators.com
@@ -759,6 +804,7 @@
 +.superpapermario.com
 +.supersmashbros.cn
 +.supersmashbros.com.cn
++.supr.cl
 +.supremacy.com
 +.supremacy.net
 +.swjedifallenorder.com
@@ -773,6 +819,7 @@
 +.tellmewhygame.com
 +.tencent-gcloud.com
 +.tencentstart.com
++.testplus.cn
 +.texasholdemcup.cn
 +.texasholdemcup.com
 +.texasholdemcup.net
@@ -811,6 +858,7 @@
 +.uo.com
 +.uoherald.com
 +.uplay.com
++.valve.net
 +.valvesoftware.com
 +.videoxiaoyouxi.com
 +.vigorgame.com
@@ -853,6 +901,7 @@
 +.winegame.net
 +.wmsj.cn
 +.wmsjsteam.com
++.wmupd.com
 +.wo1wan.com
 +.worldflipper.akamaized.net
 +.worldflipper.jp
@@ -889,9 +938,12 @@
 +.xenoblade.com
 +.xhlsgs.com
 +.xinwuji.com
++.xishanju.com
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
 +.xn--owtw8cc49ajfl.cn
++.xoyo.com
++.xoyocdn.com
 +.ycgame.com
 +.yingxiong.com
 +.ylands.com
@@ -907,6 +959,7 @@
 +.yostarplat.com
 +.youba.com
 +.yuanshen.com
++.yugioh-card.com
 +.yxdmgame.com
 +.yxhapi.com
 +.yxhhdl.com
@@ -918,6 +971,7 @@
 +.zenlesszonezero.com
 +.zhuoyou.com
 +.zhuoyuegame.com
++.zjshulong.com
 +.zynga.com
 +.zyngaplayersupport.com
 +.zyngapoker.com
@@ -944,26 +998,26 @@ dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
+end-api.shallow.ink
+end.shallow.ink
 f3b7q2p3.ssl.hwcdn.net
 flightsimulator.azureedge.net
 gamedownloads-rockstargames-com.akamaized.net
-gog-cdn-fastly.gog.com
+gog-cdn-lumen.secure2.footprint.net
 gog-cdn.akamaized.net
 gog.qtlglb.com
-gogalaxy.gog-statics.com
+hb.imgix.net
 lazer.ppy.sh
 lolstatic-a.akamaihd.net
 lv.queniujq.cn
 m1.ppy.sh
 media-rockstargames-com.akamaized.net
-menu-static.gog-statics.com
 notify.ppy.sh
 opgg-static.akamaized.net
 origin-a.akamaihd.net
 osu.ppy.sh
 prd-priconne-redive.akamaized.net
 prodforza.blob.core.windows.net
-productcard.gog-statics.com
 pubg1.battleye.com
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
@@ -972,7 +1026,6 @@ rtm.tnt-ea.com
 sentry.ppy.sh
 spectator.ppy.sh
 ssl-lvlt.cdn.ea.com
-static-login.gog-statics.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcloudsweden.blob.core.windows.net
@@ -983,9 +1036,12 @@ steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
+supercell.helpshift.com
+supercell.zendesk.com
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubisoft.siteintercept.qualtrics.com
@@ -1016,5 +1072,4 @@ ubistatic9-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 videos-rockstargames-com.akamaized.net
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-www4-static.gog-statics.com
 xz.pphimalayanrt.com

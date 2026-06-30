@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:22
-# TOTAL: 232
+# UPDATED: 2026-06-30 03:29:49
+# TOTAL: 250
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -14,11 +14,13 @@
 +.anthropic.com
 +.antigravity-unleash.goog
 +.antigravity.google
++.anythingllm.com
 +.api.statsig.com
 +.api2d.com
 +.apis.google.com
 +.app-analytics-services.com
 +.apps.mzstatic.com
++.arena.ai
 +.auth0.com
 +.bard.google.com
 +.cerebras.ai
@@ -34,6 +36,7 @@
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
++.claudemcpcontent.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
@@ -79,10 +82,13 @@
 +.geller-pa.googleapis.com
 +.gemini.google
 +.gemini.google.com
++.gemini.gstatic.com
 +.generativeai.google
 +.generativelanguage.googleapis.com
 +.githubcopilot.com
 +.githubnext.com
++.googleapis.com
++.googleusercontent.com
 +.grazie.ai
 +.grok.com
 +.grok.x.com
@@ -120,10 +126,12 @@
 +.midjourney.com
 +.minimax.io
 +.mistral.ai
++.mozilla.ai
 +.notebooklm.google
 +.notebooklm.google.com
 +.oaifree.com
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.observeit.net
 +.ollama.com
@@ -136,6 +144,7 @@
 +.openart.ai
 +.openclaw.ai
 +.openrouter.ai
++.openspec.dev
 +.oystermercury.top
 +.pawan.krd
 +.perplexity.ai
@@ -146,12 +155,14 @@
 +.poecdn.net
 +.pplx.ai
 +.proactivebackend-pa.googleapis.com
++.qoder.com
 +.replicate.com
 +.replika.com
 +.robinfrontend-pa.googleapis.com
 +.runwayml.com
 +.segment.io
 +.sentry.io
++.sider.ai
 +.smoot.apple.com
 +.sora.com
 +.sourcegraph.com
@@ -162,6 +173,7 @@
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
++.tapnow.ai
 +.themeforest.net
 +.trae.ai
 +.turn.livekit.cloud
@@ -201,8 +213,13 @@ chat.openai.com.cdn.cloudflare.net
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 console.anthropic.com
+copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-workspace.githubnext.com
 copilot.github.com
 copilot.microsoft.com
+copilotprodattachments.blob.core.windows.net
 cp4.cloudflare.com
 d3ssuo6fbvr.cloudfront.net
 daily-cloudcode-pa.googleapis.com
@@ -225,6 +242,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 platform.openai.com
+play.googleapis.com
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 proactivebackend-pa.googleapis.com

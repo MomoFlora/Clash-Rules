@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:21
-# TOTAL: 535
+# UPDATED: 2026-06-30 03:32:01
+# TOTAL: 542
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,azure-dns-6.cn
 DOMAIN-SUFFIX,azure-dns-7.cn
 DOMAIN-SUFFIX,azure-dns-8.cn
 DOMAIN-SUFFIX,azure-dns-9.cn
+DOMAIN-SUFFIX,azure-mobile.cn
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,azure-test.net
@@ -123,7 +124,6 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,bluehatil.com
@@ -152,7 +152,6 @@ DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info
@@ -176,6 +175,7 @@ DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,engkoo.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,flightsimulator.com
@@ -195,6 +195,7 @@ DOMAIN-SUFFIX,gearstactics.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,gigjam.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githubapp.com
@@ -454,6 +455,10 @@ DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypedata.akadns.net
+DOMAIN-SUFFIX,sovcloud-mx.cn
+DOMAIN-SUFFIX,sovcloud-static.cn
+DOMAIN-SUFFIX,sovcloud-usercontent.cn
+DOMAIN-SUFFIX,sovcloud.cn
 DOMAIN-SUFFIX,spo-msedge.net
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sqlserveronlinux.com
@@ -479,7 +484,6 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,translatetheweb.com
 DOMAIN-SUFFIX,trustcenter.cn
 DOMAIN-SUFFIX,tryfunctions.com
-DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,userpxt.io
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
@@ -493,7 +497,10 @@ DOMAIN-SUFFIX,vsallin.net
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
 DOMAIN-SUFFIX,windows-int.net

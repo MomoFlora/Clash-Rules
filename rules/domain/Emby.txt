@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:20
-# TOTAL: 220
+# UPDATED: 2026-06-30 03:29:49
+# TOTAL: 217
 +.114514.quest
 +.123456.al
 +.16bit.cfd
@@ -32,6 +32,7 @@
 +.beebi.org
 +.bili.de
 +.bili.rip
++.biliblili.uk
 +.blueseacdn.com
 +.carlos.trade
 +.carryz.net
@@ -56,7 +57,6 @@
 +.emby.bid
 +.emby.cjpc.cc
 +.emby.cl
-+.emby.cn2gias.uk
 +.emby.date
 +.emby.eu.org
 +.emby.flowercloud
@@ -104,6 +104,7 @@
 +.gtlx.org
 +.gugumedia.link
 +.happyav.eu.org
++.hgemby.qzz.io
 +.hovervan.org
 +.i109.com
 +.ii00.cc
@@ -142,7 +143,6 @@
 +.poloemby.xyz
 +.pololine.ml
 +.pornemby.club
-+.post.cn2gias.uk
 +.pub1.emby.wtf
 +.pub1.term.wtf
 +.pub1back.emby.wtf
@@ -191,8 +191,6 @@ cc.coemn.com
 cdn1.nebula-media.org
 cf-cdn1.nebula-media.org
 cf.sfcj.org
-cminf.sfcat.link
-cuinf.sfcat.link
 emby-cdn1.nebula-media.org
 emby.jingzhe.pro
 emby.my
@@ -202,7 +200,6 @@ emby.yomo.lol
 favoritewife.com
 jg.sfcj.org
 ju.sfcj.org
-notnetflix.cos.cat
 onatoshi.114514.quest
 pub1.emby.wtf
 pub2.emby.wtf
